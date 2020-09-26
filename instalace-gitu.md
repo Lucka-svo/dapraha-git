@@ -7,6 +7,7 @@ Pokud při instalaci narazíš na nějaké problémy nebo si nebudeš něčím j
 ## Windows
 
 1. Stáhni si instalačku Git: <https://git-scm.com/download/win>
+Postupuj dle následujících kroků:
 1. Spusť instalaci a postupuj podle následujícího návodu - buď pozorná a zkontroluj, že to máš vždy nastavené stejně jako na obrázcích!
 
 ### Instalace
